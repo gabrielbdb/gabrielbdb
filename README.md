@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Linkedin: https://br.linkedin.com/in/gabrielbdb
+
 <!--
 **gabrielbdb/gabrielbdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
