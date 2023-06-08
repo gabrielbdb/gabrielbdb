@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello, welcome to my profile 👋
 
+I'm a begginer of fullstack development.
+
+Here are some social link of my professional experiences and knowledges:
 Linkedin: https://br.linkedin.com/in/gabrielbdb
+Freecodecamp: https://www.freecodecamp.org/portuguese/Gabrielbdb
 
 <!--
 **gabrielbdb/gabrielbdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
