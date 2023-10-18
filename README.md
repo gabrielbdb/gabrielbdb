@@ -1,5 +1,5 @@
 ### Hello, welcome to my profile 👋
-
+![Hi](https://thumbs.dreamstime.com/z/marionete-engra%C3%A7ado-e-mensagem-de-boas-vindas-arte-213685606.jpg)
 I'm a begginer of fullstack development.
 
 Here are some social link of my professional experiences and knowledges:
@@ -10,7 +10,7 @@ Here are some social link of my professional experiences and knowledges:
 
 ### Things about me ###
 - 🌱 I’m currently learning HTML5, CSS3
-- 🤔 Next learning: Java, Golang and others back-end codes.
+- 🤔 What come next: Java, Golang and others back-end codes.
 - ⚡ Other stuffs: I'm a data scout on football in Brazil
 <!--
 **gabrielbdb/gabrielbdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
