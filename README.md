@@ -2,7 +2,7 @@
 
 |           |           |
 | --------- | --------- |
-| <img src="https://i.makeagif.com/media/7-31-2015/qHnvjs.gif" width="200"> | <img src="https://media.tenor.com/ZF410FW-qecAAAAC/torcida-organizada-estadio.gif" width="200"> |
+| <img src="https://i.makeagif.com/media/7-31-2015/qHnvjs.gif" width="500"> | <img src="https://media.tenor.com/ZF410FW-qecAAAAC/torcida-organizada-estadio.gif" width="500"> |
 
 **I'm a begginer of fullstack development.**
 
