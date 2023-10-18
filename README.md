@@ -1,4 +1,6 @@
-### Hello, welcome to my profile 👋<div class="img1">
+### Hello, welcome to my profile 👋
+
+<div class="img1">
 
 <img src="https://i.makeagif.com/media/7-31-2015/qHnvjs.gif"></div>
 <div class="img1">
