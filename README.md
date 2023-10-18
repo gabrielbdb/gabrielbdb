@@ -1,18 +1,10 @@
 ### Hello, welcome to my profile 👋
 
-<div class="img1">
+|           |           |
+| --------- | --------- |
+| <img src="https://i.makeagif.com/media/7-31-2015/qHnvjs.gif" width="200"> | <img src="https://media.tenor.com/ZF410FW-qecAAAAC/torcida-organizada-estadio.gif" width="200"> |
 
-<img src="https://i.makeagif.com/media/7-31-2015/qHnvjs.gif"></div>
-<div class="img1">
-<img src="https://media.tenor.com/ZF410FW-qecAAAAC/torcida-organizada-estadio.gif">
-</div>
-    <style>
-    div.img1 {
-        width: 40%;
-        display: inline-block;
-    }
-</style>
-*I'm a begginer of fullstack development.*
+**I'm a begginer of fullstack development.**
 
 Here are some social link of my professional experiences and knowledges:
 
