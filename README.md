@@ -1,6 +1,16 @@
-### Hello, welcome to my profile 👋
-![Hi](https://thumbs.dreamstime.com/z/marionete-engra%C3%A7ado-e-mensagem-de-boas-vindas-arte-213685606.jpg)
-I'm a begginer of fullstack development.
+### Hello, welcome to my profile 👋<div class="img1">
+
+<img src="https://i.makeagif.com/media/7-31-2015/qHnvjs.gif"></div>
+<div class="img1">
+<img src="https://media.tenor.com/ZF410FW-qecAAAAC/torcida-organizada-estadio.gif">
+</div>
+    <style>
+    div.img1 {
+        width: 45%;
+        display: inline-block;
+    }
+</style>
+*I'm a begginer of fullstack development.*
 
 Here are some social link of my professional experiences and knowledges:
 
