@@ -8,6 +8,7 @@ Here are some social link of my professional experiences and knowledges:
 
 - Freecodecamp: https://www.freecodecamp.org/portuguese/Gabrielbdb
 
+### Things about me ###
 - 🌱 I’m currently learning HTML5, CSS3
 - 🤔 Next learning: Java, Golang and others back-end codes.
 - ⚡ Other stuffs: I'm a data scout on football in Brazil
