@@ -8,7 +8,7 @@
 </div>
     <style>
     div.img1 {
-        width: 45%;
+        width: 40%;
         display: inline-block;
     }
 </style>
